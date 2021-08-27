@@ -1,0 +1,13 @@
+export const LOAD_USER = "LOAD_USER" 
+
+export const REGISTER_USER = "REGISTER_USER"
+
+export const LOGIN_USER = "LOGIN_USER"
+
+export const CURRENT_USER = "CURRENT_USER"
+
+export const LOGOUT = "LOGOUT"
+
+export const VIDE_ERRORS = "VIDE_ERRORS"
+
+export const FAIL_USER ="FAIL_USER"
